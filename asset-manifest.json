@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/static/css/main.28d8b2d6.css",
+    "main.js": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/static/js/main.9145b7dc.js",
+    "static/js/453.64512fd7.chunk.js": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/static/js/453.64512fd7.chunk.js",
+    "index.html": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/index.html",
+    "main.28d8b2d6.css.map": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/static/css/main.28d8b2d6.css.map",
+    "main.9145b7dc.js.map": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/static/js/main.9145b7dc.js.map",
+    "453.64512fd7.chunk.js.map": "/TextUtils-Word%20Counter,%20Character%20Counter,%20Remove%20ExtraSpaces/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d8b2d6.css",
+    "static/js/main.9145b7dc.js"
+  ]
+}
